@@ -546,21 +546,11 @@ header {
     margin-left: auto;
 }
 
-.mailing .btn{
-    display: flex;
-    align-items: center;
-}
-
-.btn-align{
-    display: flex;
-    align-items: center;
-    margin-left: auto;
-    margin-right: auto;
-}
-
 .mailing-btn-svg{
+    display: inline-block;
+    vertical-align: text-bottom;
     margin-left: 10px;
-    fill:currentColor;
+    fill: currentColor;
 }
 
 /* Копирайт */
